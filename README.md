@@ -59,8 +59,8 @@
 <div align=center>
 
   <img width=390 src="https://streak-stats.demolab.com?user=muhamedelockly&theme=dark&hide_border=true" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=muhamedelockly" />
 
-  
 
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
