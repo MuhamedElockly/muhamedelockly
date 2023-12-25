@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently looking for work as a ** Mobile Application Developer**
+ 🔭 I’m currently looking for work as a **Mobile Application Developer**
 
   🌱 I’m currently learning **ML, flutter**
 
