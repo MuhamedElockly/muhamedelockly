@@ -10,7 +10,7 @@
 
 <div align="center">
 
- 🎓 I'm a fresh graduate  ** Computer Science**
+ 🎓 I'm a fresh graduate  **Computer Science**
  
  🔭 I’m currently looking for work as a **Mobile Application Developer**
 
