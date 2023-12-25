@@ -12,8 +12,8 @@
  
  🔭 I’m currently working on **a marketplace**
  
-   🌱 I’m currently learning **ML, AWS**
-    🔭 I’m currently pursuing a master in **a Artificial intelligence**
+  🌱 I’m currently learning **ML, AWS**
+  📑 I’m currently pursuing a master in **a Artificial intelligence**
   💬 Ask me about **Android, flutter,Firebase... or anything [here](https://github.com/muhamedelockly/muhamedelockly/issues)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
