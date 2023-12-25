@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently looking for work as a ** Mobile Application Developer**
 
-  🌱 I’m currently learning **ML, AWS**
+  🌱 I’m currently learning **ML, flutter**
 
   📑 I’m currently pursuing a master in **a Artificial intelligence**
 
