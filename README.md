@@ -18,7 +18,7 @@
 
   📑 I’m currently pursuing a master in **a Artificial intelligence**
 
-  💬 Ask me about **Android,flutter,Firebase... or anything [here](https://github.com/muhamedelockly/muhamedelockly/issues)**
+  💬 Ask me about **Android,flutter,Firebase,Java... or anything [here](https://github.com/muhamedelockly/muhamedelockly/issues)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
