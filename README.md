@@ -41,8 +41,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=.net,cs,java,sqlserver,mvc,api,vs,vscode,github,ai,git" />
-    <img src="https://skillicons.dev/icons?i=python,database,unit-testing" /><br>
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,java,sqlserver,mvc,postman,selenium,visualstudio,vscode,github,ai,git" />
+    <img src="https://skillicons.dev/icons?i=python,database,html,js,jquery" /><br>
 </div>
 
 <br/>
