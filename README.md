@@ -13,15 +13,14 @@
 
  🎓 I'm a fresh graduate  **Computer Science**
  
- 🔭 I’m currently looking for work as a **Mobile Application Developer**
+ 🔭 I’m currently looking for work as a **Full Stack Developer || .Net Developer**
 
-  🌱 I’m currently learning **ML, flutter**
+  🌱 I’m currently learning **Web Developement, .Net**
 
-  📑 I’m currently pursuing a master in **a Artificial intelligence**
+  📑 I’m currently pursuing a master in **a Computer Science**
 
-  💬 Ask me about **Android,flutter,Firebase,Java... or anything [here](https://github.com/muhamedelockly/muhamedelockly/issues)**
+  💬 Ask me about **Web Development,.Net Core,MVC,API,Front End,... or anything [here](https://github.com/muhamedelockly/muhamedelockly/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
  </div>
  
@@ -42,8 +41,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=android,flutter,java,dart,kotlin,vscode,github,ai,git" />
-    <img src="https://skillicons.dev/icons?i=python,firebase,c,java,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=.net,c#,java,sqlserver,mvc,api,vs,vscode,github,ai,git" />
+    <img src="https://skillicons.dev/icons?i=python,database,unit-testing" /><br>
 </div>
 
 <br/>
