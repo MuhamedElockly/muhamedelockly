@@ -8,7 +8,6 @@
 
 <br/>
 
-
 <div align="center">
 
  🎓 I'm a fresh graduate  **Computer Science**
