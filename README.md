@@ -1,3 +1,78 @@
+
+# 👋 Hi, I'm **Muhamed Elockly**  
+**Software Engineer** | **.NET Developer** | **Full-Stack Enthusiast**  
+
+---
+
+## 🚀 About Me
+I’m a passionate software engineer specializing in **C# / .NET** development with strong skills in **Onion Architecture**, **Clean Code**, and **Full-Stack Web Development**.  
+I enjoy building scalable, maintainable systems and experimenting with different technologies like **Blazor**, **Flutter/Dart**, and **Java**.
+
+---
+
+## 🏆 Featured Projects
+
+### 🔹 OnionArchDemo
+A clean **Onion Architecture** template built with ASP.NET Core and EF Core.  
+[View Repository](https://github.com/MuhamedElockly/OnionArchDemo)
+
+### 🔹 E-Commerce MVC Web Application
+A complete e-commerce platform using .NET MVC, **Entity Framework**, and role-based authentication.  
+[View Repository](https://github.com/MuhamedElockly)
+
+### 🔹 ITI Graduation Project – RideFiX
+An emergency car service application built in C#, combining desktop and mobile experiences.  
+[View Repository](https://github.com/MuhamedElockly)
+
+### 🔹 Blazor Web Application
+A modern **.NET Blazor** app demonstrating server-side rendering, components, and routing.  
+[View Repository](https://github.com/MuhamedElockly)
+
+### 🔹 Flutter/Dart Mobile Apps
+Cross-platform apps (e.g., **Weather App**, **Chat App**) showcasing mobile UI design and API integration.  
+[View Repository](https://github.com/MuhamedElockly)
+
+---
+
+## 💻 Tech Stack
+
+**Languages & Frameworks:**  
+`C#` · `.NET Core` · `ASP.NET MVC` · `Java` · `Blazor` · `Flutter/Dart` · `Entity Framework Core`  
+
+**Architectural Patterns:**  
+`Onion Architecture` · `Clean Architecture` · `MVC`  
+
+**Tools & Databases:**  
+`SQL Server` · `Git/GitHub` · `Visual Studio` · `Postman`  
+
+---
+
+## 📌 My Development Workflow
+- I design applications with **modular architecture** for better maintainability.
+- I use **EF Core** for data persistence with migrations and LINQ queries.
+- I implement **JWT authentication** and security best practices.
+- I build **responsive UIs** using Blazor, Flutter, and sometimes Angular.
+- I follow **clean code** principles and industry best practices.
+
+---
+
+## 📫 Connect With Me
+- **GitHub:** [@MuhamedElockly](https://github.com/MuhamedElockly)  
+- **LinkedIn:** [Muhamed Elockly](https://www.linkedin.com/in/muhamedelockly)  
+
+⭐ If you like my projects, consider giving them a star — it motivates me to build more!
+
+---
+
+
+
+
+
+
+
+
+
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=muhamedelockly.muhamedelockly" />
 
 <h1 align="center">
