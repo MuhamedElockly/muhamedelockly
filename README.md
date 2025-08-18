@@ -75,14 +75,15 @@ I'm a passionate **Computer Science** graduate from Egypt 🇪🇬 with a strong
 - **Technologies**: ASP.NET Core, Entity Framework Core, SignalR, Identity Framework
 - [View Project](https://github.com/MuhamedElockly/RideFix)
 
-### 3. **Kavo - E-Learning Management System** 📚
+### 3. **KAFO - Multi-Layer Architecture Application** 🏗️
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-- **Business**: Comprehensive e-learning platform for educational institutions
-- **Features**: Course management, student enrollment, progress tracking, virtual classrooms
-- **Architecture**: Microservices architecture with API Gateway pattern
-- **Technologies**: ASP.NET Core Web API, Entity Framework Core, Angular frontend, SQL Server
-- [View Project](https://github.com/MuhamedElockly/Kavo)
+- **Business**: Enterprise-level application demonstrating advanced .NET architecture patterns
+- **Features**: Multi-layer architecture with clean separation of concerns, business logic layer, data access layer
+- **Architecture**: Clean Architecture with Domain-Driven Design (DDD) principles
+- **Technologies**: ASP.NET Core MVC, Entity Framework Core, WinForms, Multi-project solution
+- **Project Structure**: KAFO.Domain, KAFO.DAL, KAFO.BLL, KAFO.ASPMVC, KAFO.WinForms, KAFO.Utility
+- [View Project](https://github.com/MuhamedElockly/Updated_KAFO)
 
 ---
 
