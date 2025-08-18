@@ -141,6 +141,7 @@ I'm always open to discussing new opportunities, collaborations, or just having 
 
 ## 📧 Contact Information
 
+- **Email**: [elocklymuhamed@gmail.com](mailto:elocklymuhamed@gmail.com)
 - **LinkedIn**: [Muhamed Elockly](https://linkedin.com/in/muhamedelockly)
 - **GitHub**: [@MuhamedElockly](https://github.com/MuhamedElockly)
 - **Location**: Egypt 🇪🇬
