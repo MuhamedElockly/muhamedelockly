@@ -29,6 +29,14 @@ I'm a passionate **Computer Science** graduate from Egypt 🇪🇬 with a strong
 ![Web API](https://img.shields.io/badge/Web_API-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![MVC](https://img.shields.io/badge/MVC-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 
+### **Architecture & Design Patterns**
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Repository Pattern](https://img.shields.io/badge/Repository_Pattern-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Unit of Work](https://img.shields.io/badge/Unit_of_Work-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Dependency Injection](https://img.shields.io/badge/Dependency_Injection-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![SOLID Principles](https://img.shields.io/badge/SOLID_Principles-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+
 
 
 ### **Frontend Development**
@@ -51,22 +59,30 @@ I'm a passionate **Computer Science** graduate from Egypt 🇪🇬 with a strong
 
 ### 1. **E-Commerce MVC Web Application** 🛒
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-- Complete e-commerce solution built with .NET MVC
-- Advanced features and modern architecture
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+- **Business**: Complete online retail platform for e-commerce operations
+- **Features**: Product catalog, shopping cart, payment processing, order management
+- **Architecture**: MVC Pattern with Repository and Service Layer
+- **Technologies**: ASP.NET Core MVC, Entity Framework Core, Identity Framework, Bootstrap
 - [View Project](https://github.com/MuhamedElockly/E-Commerce_MVC_Web_Application)
 
-### 2. **DevSpot MVC Web Application** 💼
+### 2. **RideFix - Ride Sharing Platform** 🚗
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-- Job posting and search platform
-- Identity Framework for user authentication
-- Entity Framework for data management
-- [View Project](https://github.com/MuhamedElockly/DevSpot_MVC_Web_Application)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+- **Business**: Modern ride-sharing platform connecting drivers and passengers
+- **Features**: Real-time location tracking, payment integration, driver-passenger matching
+- **Architecture**: Clean Architecture with Repository Pattern and Unit of Work
+- **Technologies**: ASP.NET Core, Entity Framework Core, SignalR, Identity Framework
+- [View Project](https://github.com/MuhamedElockly/RideFix)
 
-### 3. **Weather App** 🌤️
+### 3. **Kavo - E-Learning Management System** 📚
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-- Weather information application
-- Cross-platform desktop solution
-- [View Project](https://github.com/MuhamedElockly/weather_app)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+- **Business**: Comprehensive e-learning platform for educational institutions
+- **Features**: Course management, student enrollment, progress tracking, virtual classrooms
+- **Architecture**: Microservices architecture with API Gateway pattern
+- **Technologies**: ASP.NET Core Web API, Entity Framework Core, Angular frontend, SQL Server
+- [View Project](https://github.com/MuhamedElockly/Kavo)
 
 ---
 
