@@ -23,18 +23,21 @@ I'm a passionate **Computer Science** graduate from Egypt 🇪🇬 with a strong
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![ASP.NET Identity](https://img.shields.io/badge/ASP.NET_Identity-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Web API](https://img.shields.io/badge/Web_API-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+
+
 
 ### **Frontend Development**
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### **Mobile Development**
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### **Tools & Technologies**
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
@@ -59,26 +62,8 @@ I'm a passionate **Computer Science** graduate from Egypt 🇪🇬 with a strong
 - Entity Framework for data management
 - [View Project](https://github.com/MuhamedElockly/DevSpot_MVC_Web_Application)
 
-### 3. **News App Flutter** 📰
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-- Cross-platform mobile news application
-- Modern UI/UX design
-- [View Project](https://github.com/MuhamedElockly/news_app_flutter)
-
-### 4. **OMR Designer** 📝
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-- Bubble sheet paper design tool
-- Educational technology solution
-- [View Project](https://github.com/MuhamedElockly/OMR_DESIGNER)
-
-### 5. **Share Location Android App** 📍
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-- Location sharing mobile application
-- Real-time location tracking
-- [View Project](https://github.com/MuhamedElockly/Share_Location_Android_App)
-
-### 6. **Weather App** 🌤️
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+### 3. **Weather App** 🌤️
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 - Weather information application
 - Cross-platform desktop solution
 - [View Project](https://github.com/MuhamedElockly/weather_app)
@@ -110,7 +95,7 @@ I'm a passionate **Computer Science** graduate from Egypt 🇪🇬 with a strong
 
 - **Bachelor's Degree** in Computer Science
 - **Currently pursuing Master's degree** in Computer Science
-- **Focus areas**: Software Engineering, Web Development, Mobile Development
+- **Focus areas**: Software Engineering, Web Development, .NET Development
 
 ---
 
@@ -118,6 +103,7 @@ I'm a passionate **Computer Science** graduate from Egypt 🇪🇬 with a strong
 
 - **Quickdraw Achievement** - Fast response to issues and pull requests
 - **Pull Shark x2** - Active contributor to open source projects
+- **.NET Developer** - Specialized in ASP.NET Core and modern web development
 
 ---
 
